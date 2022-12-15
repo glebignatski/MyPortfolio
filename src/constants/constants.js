@@ -39,9 +39,9 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2017, text: 'Graduated from High School with Honours and started York University', },
-  { year: 2018, text: 'Learned HTMl, CSS, PHP, JavaScript, Android', },
+  { year: 2018, text: 'Learned HTML, CSS, PHP, JavaScript, and Android', },
   { year: 2019, text: 'Learned Java and PostgreSQL', },
-  { year: 2020, text: 'Learned data structures, C, Verilog, and RISC-V', },
+  { year: 2020, text: 'Learned Data Structures, C, Verilog, and RISC-V', },
   { year: 2021, text: 'Learned Algorithms, Python and got an internship at KMG Appliance Repair', },
-  { year: 2022, text: 'Learned React, Graduated from York University, and picked up a part time role at KMG Appliance Repair as a Social Media Developer', }
+  { year: 2022, text: 'Learned React, GraphQl, Node, graduated from York University, and picked up a part time role at KMG Appliance Repair as a Social Media Developer', }
 ];
